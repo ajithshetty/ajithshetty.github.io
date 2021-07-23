@@ -929,6 +929,9 @@
 				border-top: 0;
 			}
 
+	
+
+			
 /* Button */
 
 	input[type="submit"],
@@ -964,7 +967,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #82cec6;
+			background-color: #cebc82;
 		}
 
 		input[type="submit"]:active,
@@ -1206,7 +1209,7 @@
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
 		min-height: 70vh;
-		background-image: url("../../images/image-bg.jpg");
+		background-image: url("../../images/big-data-connector.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -1535,6 +1538,13 @@
 		padding: 4em 0 2em 0;
 	}
 
+	#main h1 {
+		color: rgba(235, 221, 31, 0.904);
+		font-size: 5em;
+		font-weight: 400;
+		font-family: 'Passion One', cursive;
+		margin: 0;
+	}
 		@media screen and (max-width: 736px) {
 
 			#main {
